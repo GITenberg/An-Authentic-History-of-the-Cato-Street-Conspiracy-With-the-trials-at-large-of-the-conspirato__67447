@@ -1,0 +1,37 @@
+_repo: An-Authentic-History-of-the-Cato-Street-Conspiracy-With-the-trials-at-large-of-the-conspirato__67447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkinson, George Theodore
+    gutenberg_agent_id: '54275'
+    url: http://www.gutenberg.org/2009/agents/54275
+description: ''
+gutenberg_issued: '2022-02-20'
+identifiers:
+  gutenberg: '67447'
+  lccn: '28012598'
+language: en
+pgterms:marc904: https://archive.org/details/authentichistory00wilkiala
+pgterms:marc905: 20200224130133wilkinson
+pgterms:marc906: '1820'
+pgterms:marc907: GB
+production_note: deaurider, Martin Pettit and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Thomas Kelly,1820.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- England -- London'
+- !lcsh 'Great Britain -- History -- George IV, 1820-1830'
+- !lcsh 'Thistlewood, Arthur, 1770-1820 -- Trials, litigation, etc.'
+- !lcsh 'Cato Street Conspiracy, 1820'
+- !lcsh 'Trials (Treason) -- England -- London'
+- !lcc 'DA'
+- GITenberg
+title: "An Authentic History of the Cato-Street Conspiracy\r\nWith the trials at large\
+  \ of the conspirators, for high treason and murder, a description of their weapons\
+  \ and combustible machines, and every particular connected with the rise, progress,\
+  \ discovery, and termination of the horrid plot"
+url: http://www.gutenberg.org/ebooks/67447
