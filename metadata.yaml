@@ -1,11 +1,16 @@
 _repo: An-Authentic-History-of-the-Cato-Street-Conspiracy-With-the-trials-at-large-of-the-conspirato__67447
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67447-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilkinson, George Theodore
     gutenberg_agent_id: '54275'
     url: http://www.gutenberg.org/2009/agents/54275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67447#An-Authentic-History-of-the-Cato-Street-Conspiracy-With-the-trials-at-large-of-the-conspirato_
 gutenberg_issued: '2022-02-20'
 identifiers:
   gutenberg: '67447'
